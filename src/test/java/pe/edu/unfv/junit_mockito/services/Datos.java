@@ -27,4 +27,6 @@ public class Datos {
                                                         "geometria",
                                                         "adicion"
                                                     );
+
+    public final static Examen EXAMEN = new Examen(5L, "Matematicas");
 }
